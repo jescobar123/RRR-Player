@@ -4,5 +4,6 @@
     <item name="colorprimarydark">@color/colorPrimarydar</item>
     <item name="colorAccent">@color/colorAccent></item>
     </string>
+    <string name="todo">TODO</string>
 
 </resources>
