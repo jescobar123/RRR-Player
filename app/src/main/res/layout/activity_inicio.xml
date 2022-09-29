@@ -9,7 +9,7 @@
     <Button
         android:id="@+id/button"
         android:layout_width="116dp"
-        android:layout_height="40dp"
+        android:layout_height="48dp"
         android:text="continuar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -22,6 +22,7 @@
         android:id="@+id/imageButton3"
         android:layout_width="91dp"
         android:layout_height="72dp"
+        android:contentDescription="icono facebook"
         android:scaleType="fitCenter"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
