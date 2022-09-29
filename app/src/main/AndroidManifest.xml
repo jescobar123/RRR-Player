@@ -17,6 +17,7 @@
             android:name=".InicioActivity"
             android:exported="false" />
         <activity
+            0.
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
