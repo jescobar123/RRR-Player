@@ -14,10 +14,12 @@
         android:theme="@style/Theme.RRRPlayer"
         tools:targetApi="31">
         <activity
+            android:name=".iniciojuego"
+            android:exported="false" />
+        <activity
             android:name=".InicioActivity"
             android:exported="false" />
         <activity
-            0.
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
