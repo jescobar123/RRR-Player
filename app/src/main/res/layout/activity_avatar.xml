@@ -22,7 +22,6 @@
         app:srcCompat="@drawable/ni_o" />
 
     <ImageButton
-        android:id="@+id/imageButton4"
         android:layout_width="164dp"
         android:layout_height="132dp"
         android:contentDescription="icono mujer"
