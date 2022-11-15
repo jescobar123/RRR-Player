@@ -5,5 +5,10 @@
     <item name="colorAccent">@color/colorAccent></item>
     </string>
     <string name="icono_de_facebook">Icono de Facebook</string>
+    <string name="todo">TODO</string>
+    <string name="invitado">invitado</string>
+    <string name="icono_facebook">icono facebook</string>
+    <string name="continuar">continuar</string>
+    <string name="TODO">TODO</string>
 
 </resources>
